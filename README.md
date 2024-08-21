@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gkreddy8441
 - 👀 I’m interested in learning new technologies 
-- 🌱 I’m currently learning full stack java
+- 🌱 I’m currently learning full stack java and Devops 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in advance 
 
